@@ -2,18 +2,18 @@
 
 ## 基本情報
 |key|value|
-|--|--|
+|---|---|
 |氏名|黒岩 卓誠（Kuroiwa Takumi）|
 |誕生日|1991/02/16（31歳）|
 |居住地|群馬県|
 |最終学歴|獨協大学法学部|
 
 ## 各種アカウント
-- **Qiita**：https://qiita.com/takumi_links
-- **GitHub**：https://github.com/kuro-channel
-- **Wantedly**: https://www.wantedly.com/id/kuroiwa_takumi
-- **speakerdeck**：https://speakerdeck.com/takumikuroiwa
-- **はてなブログ**：https://gunma-programcz.hatenablog.com/
+- **Qiita**：[https://qiita.com/takumi_links](https://qiita.com/takumi_links)
+- **GitHub**：[https://github.com/kuro-channel](https://github.com/kuro-channel)
+- **Wantedly**: [https://www.wantedly.com/id/kuroiwa_takumi](https://www.wantedly.com/id/kuroiwa_takumi)
+- **speakerdeck**：[https://speakerdeck.com/takumikuroiwa](https://speakerdeck.com/takumikuroiwa)
+- **はてなブログ**：[https://gunma-programcz.hatenablog.com/](https://gunma-programcz.hatenablog.com/)
 
 ## 技術スタック
 ### 言語
@@ -38,7 +38,7 @@
 
 ## 職務経歴
 ### 株式会社インプローブ（2020/05 ~ 現在）※正社員
-公開エントリー：https://www.wantedly.com/companies/company_9425825/post_articles/382381
+インタビュー記事：[https://www.wantedly.com/companies/company_9425825/post_articles/382381](https://www.wantedly.com/companies/company_9425825/post_articles/382381)
 
 ➀**不動産店舗専門ホームページ作成サービスの開発**と ➁ **自動車整備工場向けの顧客管理システム（CRM）の開発** に従事。  
 
@@ -77,14 +77,14 @@
   - AWS-CDKによるインフラ構築
 
 ### BAMV合同会社（2016/06 ~ 2018/03）※正社員
-公開エントリー：https://www.green-japan.com/interview/3915
+インタビュー記事：[https://www.green-japan.com/interview/3915](https://www.green-japan.com/interview/3915)
 
 SES事業部に配属。客先常駐で開発現場にて開発作業。SESでの常駐開発を主として開発を経験。  
 会社の方針で、主にJava/Spring Bootの案件をメインに常駐。
 
 ## 保有資格
 |資格|取得年|
-|--|--|
+|---|---|
 |基本情報技術者試験|2021|
 
 ## 自己PR
